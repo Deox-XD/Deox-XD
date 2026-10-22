@@ -8,7 +8,7 @@
   <br><br>
 
   <!-- Profile GIF / Banner (update path if needed) -->
-  <img src="https://github.com/Deox-XD/Deox-XD/blob/main/giphy.gif" width="420" alt="Deox-XD Banner"/>
+  <img src="https://github.com/Deox-XD/Deox-XD/blob/main/Jujutsu%20Kaisen%20Gojo%20GIF%20by%20MSR%20Media%20Network.gif" width="420" alt="Deox-XD Banner"/>
 
   <br><br>
 
